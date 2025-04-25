@@ -1,7 +1,7 @@
 # UNP_PROJECT_BI_WITH_MS_EXCEL_CUSTOMER_CREDIT_CARD_DATA
 
 Credit Card Application Data Analysis & Dashboard (Excel)
-Team Members: Pavana Kumar, Harshith Reddy, Aakash, Raja Kiran, and myself
+Team Members: Harshith Reddy, Aakash, Raja Kiran, and myself( Pavana Kumar )
 •	Performed data cleaning and preprocessing on credit card applicant data to ensure accuracy and consistency.
 •	Conducted exploratory data analysis to understand spending behavior and transaction trends.
 •	Built an interactive Excel dashboard for intuitive visualizations, including:
